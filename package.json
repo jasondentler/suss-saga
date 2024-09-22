@@ -1,0 +1,30 @@
+{
+  "name": "suss-saga",
+  "version": "1.0.0",
+  "description": "A Foundry VTT module for Google Docs session notes",
+  "main": "scripts/module.js",
+  "scripts": {
+    "build": "npx tsc",
+    "lint": "npx eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasondentler/suss-saga.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasondentler/suss-saga/issues"
+  },
+  "homepage": "https://github.com/jasondentler/suss-saga#readme",
+  "keywords": [],
+  "author": "Jason Dentler",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.11.0",
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.280.1",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^9.11.0",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.6.0"
+  }
+}

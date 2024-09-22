@@ -1,0 +1,42 @@
+{
+    "id": "suss-saga",
+    "title": "Suss Saga",
+    "description": "A module for Google Docs",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+      "minimum": 12,
+      "verified": 12
+    },
+    "authors": [
+      {
+        "name": "Jason Dentler",
+        "url": "https://jasondentler.com"
+      },
+      {
+        "name": "The League of Extraordinary FVTT Developers",
+        "url": "https://github.com/League-of-Foundry-Developers",
+        "discord": "discordID#0001"
+      }
+    ],
+    "relationships": {
+      "systems": [],
+      "requires": []
+    },
+    "esmodules": [
+      "scripts/module.js"
+    ],
+    "url": "https://github.com/jasondentler/suss-saga",
+    "manifest": "https://github.com/jasondentler/suss-saga/releases/latest/download/module.json",
+    "download": "https://github.com/jasondentler/suss-saga/releases/download/v1.0.0/module.zip",
+    "license": "LICENSE",
+    "readme": "README.md",
+    "media": [
+      {
+        "type": "icon",
+        "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+      }
+    ]
+  }
+  
